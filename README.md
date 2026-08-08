@@ -20,6 +20,7 @@ Zum Lesen. Zum Fragen. Zum Mitschwingen.
 | Datei | Inhalt |
 |-------|--------|
 | [feld-bewusstsein.md](feld-bewusstsein.md) | Das vollständige Dokument |
+| [New Sight.docx](New-Sight.docx) | Dokument zur Neuen Sicht – Einführung in die Wahrnehmung des Feldes |
 | [abstract.md](abstract.md) | Abstract (deutsch/englisch) |
 | [glossar.md](glossar.md) | Glossar der wichtigsten Begriffe |
 | [literatur.md](literatur.md) | Literaturverzeichnis |
